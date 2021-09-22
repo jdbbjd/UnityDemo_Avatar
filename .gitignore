@@ -1,0 +1,6 @@
+
+Library/PackageCache/*
+Temp/*
+Library/Artifacts/*
+Library/ShaderCache/*
+Library/StateCache/*
