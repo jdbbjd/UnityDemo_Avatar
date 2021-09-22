@@ -1,6 +1,4 @@
 
-Library/PackageCache/*
 Temp/*
-Library/Artifacts/*
-Library/ShaderCache/*
-Library/StateCache/*
+Library
+*DS_Store
